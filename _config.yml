@@ -80,12 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jun"
+  name             : "Dr Jun Zhao"
   avatar           : "profile.jpg"
   bio              : "An aacademic researcher working on the interaction of human and AI systems."
   location         : "Oxford"
   employer         :
-  pubmed           : ""
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=vtYDi4UAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "http://github.com/junszhao"
   google_plus      :
   keybase          :
   instagram        :
