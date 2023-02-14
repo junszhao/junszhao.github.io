@@ -208,10 +208,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _people
   - scope:
       path: ""
-      type: teaching
+      type: people
     values:
       layout: single
       author_profile: true
